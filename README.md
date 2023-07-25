@@ -4,6 +4,6 @@ Projeto desenvolvido utilizando as queryes da linguagem sql e workbench, utiliza
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-Hoje você fará um projeto com o codinome _All For One_ em que praticará todos os conceitos de SQL. Porém, você vai usar um banco de dados totalmente diferente, o `Northwind`, que será usado neste projeto.
+FOi desenvolvido um projeto com o codinome _All For One_ em que será praticado todos os conceitos de SQL. Porém, será utilizado um banco de dados totalmente diferente, o `Northwind`.
 
 </details>
